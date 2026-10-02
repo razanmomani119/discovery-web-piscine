@@ -1,0 +1,11 @@
+Edit
+I make changes to my files
+
+Add
+I use git add to prepare the changes
+
+Commit
+I use git commit to save the changes
+
+Push
+I use git push to send the changes to GitHub
